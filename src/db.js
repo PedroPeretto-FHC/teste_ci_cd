@@ -6,5 +6,5 @@ export const pool = new Pool({
     host: "localhost",
     database: "crud_nodejs",
     password: "!Cris1fl@2",
-    port: 5432
+    port: 5430
 });
